@@ -1,0 +1,2 @@
+# CurdAppsJavaScript
+JavaScript Curd
